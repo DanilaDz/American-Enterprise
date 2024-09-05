@@ -1,2 +1,2 @@
 # American-Enterprise
-Game created for the Future Business Leaders of America Computer Game and Simulation event.
+Game created for the Future Business Leaders of America regional and state competition. American Enterprise received 3rd at the state level and qualified for nationals in the Computer Game & Simulation Programming event. The game focuses on progressing through levels and growing your furniture business while trying to outperform your opponent through engaging gameplay and unique levels and level design.
